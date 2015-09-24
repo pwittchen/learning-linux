@@ -6,8 +6,8 @@ It's not going to be next awesome-* list. This list is created for my own learni
 
 Resources
 ---------
-- [Source code of Linux kernel](https://github.com/torvalds/linux)
-- [The art of command line](https://github.com/jlevy/the-art-of-command-line)
+- [Source code of the Linux kernel](https://github.com/torvalds/linux)
+- [The art of command line - absolutely must read](https://github.com/jlevy/the-art-of-command-line)
 - [Linux survival](http://linuxsurvival.com/)
 - [Linux insides](https://github.com/0xAX/linux-insides)
 - [Linux insides (book on-line)](https://0xax.gitbooks.io/linux-insides/content/index.html)
