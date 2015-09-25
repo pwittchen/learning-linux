@@ -12,7 +12,7 @@ Resources
 - [Linux insides](https://github.com/0xAX/linux-insides)
 - [Linux insides (book on-line)](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [Learning assembly for linux-x64](https://github.com/0xAX/asm)
-- [Linux category on my blog (blog.wittchen.biz.pl)](http://blog.wittchen.biz.pl/category/linux/) - I put here notes about daily usage of the system
+- [Linux category on my blog (blog.wittchen.biz.pl)](http://blog.wittchen.biz.pl/category/linux/) - I put here notes about daily usage of the system as desktop
 - [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [awesome-linux-resources](https://github.com/itech001/awesome-linux-resources)
 - ...
