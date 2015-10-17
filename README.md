@@ -15,6 +15,7 @@ Resources
 - [Linux category on my blog (blog.wittchen.biz.pl)](http://blog.wittchen.biz.pl/category/linux/) - notes about daily usage of the system as desktop
 - [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [awesome-linux-resources](https://github.com/itech001/awesome-linux-resources)
+- [cool but obscure unix tools](http://kkovacs.eu/cool-but-obscure-unix-tools)
 - ...
 
 I'll be adding more resources, which I find useful gradually.
