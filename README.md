@@ -17,9 +17,17 @@ Resources
 - [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [awesome-linux-resources](https://github.com/itech001/awesome-linux-resources)
 - [cool but obscure unix tools](http://kkovacs.eu/cool-but-obscure-unix-tools)
+- [Unix tutorials](http://www.grymoire.com/Unix/)
 
-### Command line & Bash programming
+### Command line & bash programming
 - [The art of command line](https://github.com/jlevy/the-art-of-command-line) - absolutely must read
 - [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
 - [Bash programming - introduction](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+
+### grep, sed, awk
 - [Command Line Tutorials - sed & awk](https://quickleft.com/blog/command-line-tutorials-sed-awk/)
+- [Unix Tutorials - awk](http://www.grymoire.com/Unix/Awk.html)
+- [An awk primer](http://www.vectorsite.net/tsawk.html)
+- [sed at panix.com](http://www.panix.com/~elflord/unix/sed.html)
+- [grep at panix.com](http://www.panix.com/~elflord/unix/grep.html)
+- [regular-expressions.info](http://www.regular-expressions.info/)
