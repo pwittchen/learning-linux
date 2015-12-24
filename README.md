@@ -31,3 +31,4 @@ Resources
 - [sed at panix.com](http://www.panix.com/~elflord/unix/sed.html)
 - [grep at panix.com](http://www.panix.com/~elflord/unix/grep.html)
 - [regular-expressions.info](http://www.regular-expressions.info/)
+- [sed one-liners](http://sed.sourceforge.net/sed1line.txt)
