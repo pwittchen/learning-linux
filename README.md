@@ -21,8 +21,12 @@ Resources
 
 ### Command line & bash programming
 - [The art of command line](https://github.com/jlevy/the-art-of-command-line) - absolutely must read
+- [Linux Tutorial - Command Line](http://ryanstutorials.net/linuxtutorial/commandline.php)
 - [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
 - [Bash programming - introduction](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [Bash scripting tutorial](http://linuxconfig.org/bash-scripting-tutorial)
+- [Learnign bash scripting for beginners](http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)
+- [List of bash on-line tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
 
 ### grep, sed, awk
 - [Command Line Tutorials - sed & awk](https://quickleft.com/blog/command-line-tutorials-sed-awk/)
