@@ -19,7 +19,7 @@ Resources
 - [cool but obscure unix tools](http://kkovacs.eu/cool-but-obscure-unix-tools)
 - [Unix tutorials](http://www.grymoire.com/Unix/)
 
-### Command line & bash programming
+### command line & bash programming
 - [The art of command line](https://github.com/jlevy/the-art-of-command-line) - absolutely must read
 - [Linux Tutorial - Command Line](http://ryanstutorials.net/linuxtutorial/commandline.php)
 - [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
@@ -36,3 +36,9 @@ Resources
 - [grep at panix.com](http://www.panix.com/~elflord/unix/grep.html)
 - [regular-expressions.info](http://www.regular-expressions.info/)
 - [sed one-liners](http://sed.sourceforge.net/sed1line.txt)
+
+### vim
+- [interactive openvim tutorial](http://www.openvim.com/)
+- [vim tutorial and primer](https://danielmiessler.com/study/vim/)
+- [vim tutorial at vim.wikia.com](http://vim.wikia.com/wiki/Tutorial)
+- [vim tutorial at linuxconfig.or](http://linuxconfig.org/vim-tutorial)
