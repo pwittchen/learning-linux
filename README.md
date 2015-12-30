@@ -7,7 +7,7 @@ It's not going to be next awesome-* list. This list is created for my own learni
 Resources
 ---------
 
-### General
+### general
 - [Source code of the Linux kernel](https://github.com/torvalds/linux)
 - [Linux survival](http://linuxsurvival.com/)
 - [Linux insides](https://github.com/0xAX/linux-insides)
