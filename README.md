@@ -1,5 +1,5 @@
-learning-linux
-===========
+learning linux
+==============
 Repository created in order to learn Linux and collect resources connected with it
 
 It's not going to be next awesome-* list. This list is created for my own learning purposes and I'm not going to put here everything, but if someone else will find it useful, it's good.
