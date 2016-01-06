@@ -1,4 +1,4 @@
-learning linux
+Learning Linux
 ==============
 Repository created in order to learn Linux and collect resources connected with it
 
