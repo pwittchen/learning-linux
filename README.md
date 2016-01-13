@@ -43,4 +43,5 @@ Resources
 - [vim tutorial at vim.wikia.com](http://vim.wikia.com/wiki/Tutorial)
 - [vim tutorial at linuxconfig.or](http://linuxconfig.org/vim-tutorial)
 - [everything you need to know about vim](https://github.com/mhinz/vim-galore)
+- [vi survival guide](http://www.nuxified.org/vi_survival_guide)
 - [vim clutch - hardware pedal for text editing in vim](https://github.com/alevchuk/vim-clutch)
