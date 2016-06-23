@@ -45,3 +45,9 @@ Resources
 - [everything you need to know about vim](https://github.com/mhinz/vim-galore)
 - [vi survival guide](http://www.nuxified.org/vi_survival_guide)
 - [vim clutch - hardware pedal for text editing in vim](https://github.com/alevchuk/vim-clutch)
+- vimtutor
+- Practical Vim - book
+
+# tmux
+- [Terminal multiplexer czyli mój nowy przyjaciel! - PL](https://nocturndev.wordpress.com/2015/01/12/tmux/)
+- [Making tmux Pretty and Usable - A Guide to Customizing your tmux.conf](http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
