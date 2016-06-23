@@ -48,6 +48,6 @@ Resources
 - vimtutor
 - Practical Vim - book
 
-# tmux
+### tmux
 - [Terminal multiplexer czyli mój nowy przyjaciel! - PL](https://nocturndev.wordpress.com/2015/01/12/tmux/)
 - [Making tmux Pretty and Usable - A Guide to Customizing your tmux.conf](http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
