@@ -27,6 +27,7 @@ Resources
 - [Bash scripting tutorial](http://linuxconfig.org/bash-scripting-tutorial)
 - [Learnign bash scripting for beginners](http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)
 - [List of bash on-line tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
+- [bash guide](https://github.com/Idnan/bash-guide)
 
 ### grep, sed, awk
 - [Command Line Tutorials - sed & awk](https://quickleft.com/blog/command-line-tutorials-sed-awk/)
