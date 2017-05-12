@@ -19,6 +19,9 @@ Resources
 - [cool but obscure unix tools](http://kkovacs.eu/cool-but-obscure-unix-tools)
 - [Unix tutorials](http://www.grymoire.com/Unix/)
 
+### building linux
+- [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux)
+
 ### command line & bash programming
 - [The art of command line](https://github.com/jlevy/the-art-of-command-line) - absolutely must read
 - [Linux Tutorial - Command Line](http://ryanstutorials.net/linuxtutorial/commandline.php)
