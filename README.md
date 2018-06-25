@@ -32,6 +32,7 @@ Resources
 - [List of bash on-line tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
 - [bash guide](https://github.com/Idnan/bash-guide)
 - [command line text processing](https://github.com/learnbyexample/Command-line-text-processing)
+- [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
 
 ### grep, sed, awk
 - [Command Line Tutorials - sed & awk](https://quickleft.com/blog/command-line-tutorials-sed-awk/)
