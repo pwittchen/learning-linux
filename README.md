@@ -18,6 +18,7 @@ Resources
 - [awesome-linux-resources](https://github.com/itech001/awesome-linux-resources)
 - [cool but obscure unix tools](http://kkovacs.eu/cool-but-obscure-unix-tools)
 - [Unix tutorials](http://www.grymoire.com/Unix/)
+- [Bandit linux wargame](http://overthewire.org/wargames/bandit/)
 
 ### building linux
 - [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux)
