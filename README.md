@@ -19,6 +19,7 @@ Resources
 - [cool but obscure unix tools](http://kkovacs.eu/cool-but-obscure-unix-tools)
 - [Unix tutorials](http://www.grymoire.com/Unix/)
 - [Bandit linux wargame](http://overthewire.org/wargames/bandit/)
+- [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 
 ### building linux
 - [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux)
