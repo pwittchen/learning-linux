@@ -21,6 +21,9 @@ Resources
 - [Bandit linux wargame](http://overthewire.org/wargames/bandit/)
 - [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 
+### video
+- [YouTube channel of Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
+
 ### building linux
 - [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux)
 
