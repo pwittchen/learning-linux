@@ -20,6 +20,8 @@ Resources
 - [Unix tutorials](http://www.grymoire.com/Unix/)
 - [Bandit linux wargame](http://overthewire.org/wargames/bandit/)
 - [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
+- [Arch Wiki](https://wiki.archlinux.org/)
+- [Arch Linux](https://www.archlinux.org/)
 
 ### video
 - [YouTube channel of Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
