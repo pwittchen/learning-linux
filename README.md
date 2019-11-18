@@ -24,7 +24,7 @@ Resources
 - [Arch Linux](https://www.archlinux.org/)
 
 ### video
-- [YouTube channel of Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) - one of my fav source of knowledge
+- [YouTube channel of Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) - one of my fav sources of knowledge
 
 ### building linux
 - [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux)
